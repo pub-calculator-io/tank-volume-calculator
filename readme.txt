@@ -1,6 +1,6 @@
 === Tank Volume Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: tank volume calculator, horizontal cylinder, vertical cylinder, rectangle tank, oil tanks, water tanks, metric dimensions, cubic measurements, filled volume calculation, geometric tank shapes
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
