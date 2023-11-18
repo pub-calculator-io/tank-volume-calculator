@@ -1,4 +1,4 @@
-# Tank Volume Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Tank Volume Calculator Widget for WordPress
 
 The tank volume calculator finds the total volume of various tank shapes in gallons, liters, and cubic meters. It calculates the liquid volume of partially filled tanks.
 
