@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Tank Volume Calculator by www.calculator.io
+Plugin Name: CI Tank volume calculator
 Plugin URI: https://www.calculator.io/tank-volume-calculator/
 Description: The tank volume calculator finds the total volume of various tank shapes in gallons, liters, and cubic meters. It calculates the liquid volume of partially filled tanks.
 Version: 1.0.0
