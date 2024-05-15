@@ -3,7 +3,6 @@
 The tank volume calculator finds the total volume of various tank shapes in gallons, liters, and cubic meters. It calculates the liquid volume of partially filled tanks.
 
 ![Tank Volume Calculator Input Form](/assets/images/screenshot-1.png "Tank Volume Calculator Input Form")
-![Tank Volume Calculator Calculation Results](/assets/images/screenshot-2.png "Tank Volume Calculator Calculation Results")
 
 ## Installation
 

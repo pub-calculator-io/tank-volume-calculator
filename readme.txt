@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Tank Volume Cal
 == Screenshots ==
 
 1. The Tank Volume Calculator Input Form.
-2. The Tank Volume Calculator Calculation Results.
 
 == Installation ==
 
